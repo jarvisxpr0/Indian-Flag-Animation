@@ -62,8 +62,7 @@ Inspired by the Indian Independence Day (15th August).
 
 National Song: Vande Mataram.
 
-📸 Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba344aaf-a71c-499c-b189-72b9f511c601" />
+
 
 🧑‍💻 Author
 Developed with ❤️ by Abhinav Patel
